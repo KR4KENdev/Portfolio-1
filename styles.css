@@ -1,0 +1,24 @@
+#profile-photo{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+header{
+    text-align: center;
+}
+.experience__company{
+    color: green;
+}
+#Saidjon{
+    text-align: center;
+}
+#bot{
+    color: green;
+}
+#Abdulloh{
+    font-size: 50px;
+    text-align: center;
+}
+table{
+    width: 50%;
+}
